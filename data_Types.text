@@ -1,0 +1,16 @@
+Primitive og 7 types
+
+String
+Number
+Boolean
+null
+Undefined
+Symbol
+Bigint
+Stack memory is used
+
+Refrence or Nonprimitive
+Heap memory is used
+arrays
+objects
+Functions
